@@ -6,3 +6,4 @@ C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Common\obj\Debug\netstandard2.
 C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Common\obj\Debug\netstandard2.0\ASAN.Common.AssemblyInfo.cs
 C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Common\obj\Debug\netstandard2.0\ASAN.Common.dll
 C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Common\obj\Debug\netstandard2.0\ASAN.Common.pdb
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Common\obj\Debug\netstandard2.0\ASAN.Common.csprojAssemblyReference.cache
