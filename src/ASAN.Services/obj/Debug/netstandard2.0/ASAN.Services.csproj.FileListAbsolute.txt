@@ -14,5 +14,3 @@ C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Services\obj\Debug\netstandard
 C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Services\obj\Debug\netstandard2.0\ASAN.Services.csproj.CopyComplete
 C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Services\obj\Debug\netstandard2.0\ASAN.Services.dll
 C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Services\obj\Debug\netstandard2.0\ASAN.Services.pdb
-C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Services\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
-C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Services\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
