@@ -1,0 +1,8 @@
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Common\bin\Debug\netstandard2.0\ASAN.Common.deps.json
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Common\bin\Debug\netstandard2.0\ASAN.Common.dll
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Common\bin\Debug\netstandard2.0\ASAN.Common.pdb
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Common\obj\Debug\netstandard2.0\ASAN.Common.csproj.CoreCompileInputs.cache
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Common\obj\Debug\netstandard2.0\ASAN.Common.AssemblyInfoInputs.cache
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Common\obj\Debug\netstandard2.0\ASAN.Common.AssemblyInfo.cs
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Common\obj\Debug\netstandard2.0\ASAN.Common.dll
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Common\obj\Debug\netstandard2.0\ASAN.Common.pdb

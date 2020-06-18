@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>ASAN.Services</AssemblyName>
+    <PackageId>ASAN.Services</PackageId>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ASAN.Common\ASAN.Common.csproj" />
+    <ProjectReference Include="..\ASAN.DataLayer\ASAN.DataLayer.csproj" />
+    <ProjectReference Include="..\ASAN.Entities\ASAN.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

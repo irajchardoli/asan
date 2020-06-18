@@ -1,0 +1,47 @@
+﻿@model ASAN.Entities.Estate
+
+
+
+<div class="col-md-6">
+
+    <div class="form-group has-feedback">
+        <label asp-for="Number" class="col-md-4 control-label">شماره</label>
+        <div class="col-md-8">
+            <input asp-for="Number" autocomplete="off" class="form-control" placeholder="شماره" />
+            <span asp-validation-for="Number" class="text-danger has-feedback"></span>
+        </div>
+    </div>
+
+    <div class="form-group has-feedback">
+        <label asp-for="OwnerId" class="col-md-4 control-label">مالک</label>
+        <div class="col-md-8">
+            <select asp-for="OwnerId" asp-items="@Model.Owners" class="form-control"></select>
+            <span asp-validation-for="OwnerId" class="text-danger has-feedback"></span>
+        </div>
+    </div>
+
+    <div class="form-group has-feedback">
+        <label asp-for="Title" class="col-md-4 control-label">عنوان</label>
+        <div class="col-md-8">
+            <input asp-for="Title" autocomplete="off" class="form-control" placeholder="عنوان" />
+            <span asp-validation-for="Title" class="text-danger has-feedback"></span>
+        </div>
+    </div>
+
+    <div class="form-group has-feedback">
+        <label asp-for="Area" class="col-md-4 control-label">متراژ</label>
+        <div class="col-md-8">
+            <input asp-for="Area" autocomplete="off" class="form-control" placeholder="متراژ" />
+            <span asp-validation-for="Area" class="text-danger has-feedback"></span>
+        </div>
+    </div>
+
+    <div class="form-group has-feedback">
+        <label asp-for="Address" class="col-sm-4 control-label">آدرس</label>
+        <div class="col-sm-8 col-xs-12">
+            <textarea asp-for="Address" autocomplete="off" rows="7" style="resize:none" class="form-control" placeholder="آدرس"></textarea>
+            <span asp-validation-for="Address" class="text-danger has-feedback"></span>
+        </div>
+    </div>
+
+</div>

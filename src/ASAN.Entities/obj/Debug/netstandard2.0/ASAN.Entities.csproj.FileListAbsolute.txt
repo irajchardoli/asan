@@ -1,0 +1,12 @@
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Entities\bin\Debug\netstandard2.0\ASAN.Entities.deps.json
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Entities\bin\Debug\netstandard2.0\ASAN.Entities.dll
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Entities\bin\Debug\netstandard2.0\ASAN.Entities.pdb
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Entities\obj\Debug\netstandard2.0\ASAN.Entities.csproj.CoreCompileInputs.cache
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Entities\obj\Debug\netstandard2.0\ASAN.Entities.AssemblyInfoInputs.cache
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Entities\obj\Debug\netstandard2.0\ASAN.Entities.AssemblyInfo.cs
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Entities\obj\Debug\netstandard2.0\ASAN.Entities.dll
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Entities\obj\Debug\netstandard2.0\ASAN.Entities.pdb
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Entities\obj\Debug\netstandard2.0\ASAN.Entities.csprojAssemblyReference.cache
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Entities\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Entities\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Partition\TempProjects\AsanShahr\ASAN\src\ASAN.Entities\obj\Debug\netstandard2.0\ASAN.Entities.csproj.CopyComplete
